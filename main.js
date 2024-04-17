@@ -187,7 +187,7 @@ const app = Vue.createApp({
                 this.last_rank = jsonData.content.LR;
             }
             else {
-                players = [ichi];
+                players = [];
                 this.last_rank = 1;
             }
             if (players.length != 0) {
