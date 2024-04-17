@@ -6,12 +6,37 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "1-19"
+                },
+                {
+                    "id": 2,
+                    "name": "level_placeholder",
+                    "value": "20-29"
+                },
+                {
+                    "id": 3,
+                    "name": "level_placeholder",
+                    "value": "30-39"
+                },
+                {
+                    "id": 4,
+                    "name": "level_placeholder",
+                    "value": "40-59"
+                },
+                {
+                    "id": 5,
+                    "name": "level_placeholder",
+                    "value": "50-69"
+                },
+                {
+                    "id": 6,
+                    "name": "level_placeholder",
                     "value": "70"
                 }
             ]
         },
         "dialog_BeggingKnights_nobilityPoints": {
-            "id": 1,
+            "id": 2,
             "categories": [
                 {
                     "id": 1,
@@ -20,20 +45,70 @@
             ]
         },
         "honorPoints": {
-            "id": 1,
+            "id": 5,
             "categories": [
                 {
                     "id": 1,
+                    "name": "level_placeholder",
+                    "value": "1-19"
+                },
+                {
+                    "id": 2,
+                    "name": "level_placeholder",
+                    "value": "20-29"
+                },
+                {
+                    "id": 3,
+                    "name": "level_placeholder",
+                    "value": "30-39"
+                },
+                {
+                    "id": 4,
+                    "name": "level_placeholder",
+                    "value": "40-59"
+                },
+                {
+                    "id": 5,
+                    "name": "level_placeholder",
+                    "value": "50-69"
+                },
+                {
+                    "id": 6,
                     "name": "level_placeholder",
                     "value": "70"
                 }
             ]
         },
         "playerMight": {
-            "id": 1,
+            "id": 6,
             "categories": [
                 {
                     "id": 1,
+                    "name": "level_placeholder",
+                    "value": "1-19"
+                },
+                {
+                    "id": 2,
+                    "name": "level_placeholder",
+                    "value": "20-29"
+                },
+                {
+                    "id": 3,
+                    "name": "level_placeholder",
+                    "value": "30-39"
+                },
+                {
+                    "id": 4,
+                    "name": "level_placeholder",
+                    "value": "40-59"
+                },
+                {
+                    "id": 5,
+                    "name": "level_placeholder",
+                    "value": "50-69"
+                },
+                {
+                    "id": 6,
                     "name": "level_placeholder",
                     "value": "70"
                 }
@@ -76,6 +151,36 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "10-14"
+                },
+                {
+                    "id": 2,
+                    "name": "level_placeholder",
+                    "value": "15-19"
+                },
+                {
+                    "id": 3,
+                    "name": "level_placeholder",
+                    "value": "20-24"
+                },
+                {
+                    "id": 4,
+                    "name": "level_placeholder",
+                    "value": "25-29"
+                },
+                {
+                    "id": 5,
+                    "name": "level_placeholder",
+                    "value": "30-49"
+                },
+                {
+                    "id": 6,
+                    "name": "level_placeholder",
+                    "value": "50-69"
+                },
+                {
+                    "id": 7,
+                    "name": "legendaryLevel_placeholder",
                     "value": "1-950"
                 }
             ]
@@ -86,6 +191,26 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "20-69"
+                },
+                {
+                    "id": 2,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "1-299"
+                },
+                {
+                    "id": 3,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "300-649"
+                },
+                {
+                    "id": 4,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "650-949"
+                },
+                {
+                    "id": 5,
+                    "name": "legendaryLevel_placeholder",
                     "value": "950"
                 }
             ]
@@ -96,6 +221,26 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "30-69"
+                },
+                {
+                    "id": 2,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "1-299"
+                },
+                {
+                    "id": 3,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "300-649"
+                },
+                {
+                    "id": 4,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "650-949"
+                },
+                {
+                    "id": 5,
+                    "name": "legendaryLevel_placeholder",
                     "value": "950"
                 }
             ]
@@ -106,6 +251,26 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "10-69"
+                },
+                {
+                    "id": 2,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "1-299"
+                },
+                {
+                    "id": 3,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "300-649"
+                },
+                {
+                    "id": 4,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "650-949"
+                },
+                {
+                    "id": 5,
+                    "name": "legendaryLevel_placeholder",
                     "value": "950"
                 }
             ]
@@ -117,6 +282,16 @@
                 {
                     "id": 1,
                     "name": "level_placeholder",
+                    "value": "50-69"
+                },
+                {
+                    "id": 2,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "1-799"
+                },
+                {
+                    "id": 3,
+                    "name": "legendaryLevel_placeholder",
                     "value": "800-950"
                 }
             ]
@@ -155,6 +330,26 @@
             "categories": [
                 {
                     "id": 1,
+                    "name": "level_placeholder",
+                    "value": "40-69"
+                },
+                {
+                    "id": 2,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "1-299"
+                },
+                {
+                    "id": 3,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "300-649"
+                },
+                {
+                    "id": 4,
+                    "name": "legendaryLevel_placeholder",
+                    "value": "650-949"
+                },
+                {
+                    "id": 5,
                     "name": "legendaryLevel_placeholder",
                     "value": "950"
                 }
@@ -165,6 +360,11 @@
             "categories": [
                 {
                     "id": 3,
+                    "name": "level_placeholder",
+                    "value": "55-69"
+                },
+                {
+                    "id": 4,
                     "name": "legendaryLevel_placeholder",
                     "value": "1-950"
                 }
