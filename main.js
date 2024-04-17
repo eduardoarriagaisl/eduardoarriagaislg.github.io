@@ -6,7 +6,7 @@ const app = Vue.createApp({
             servers: {},
             events: {},
             texts: {},
-            players: [],
+            players: [ichi],
             current_language: 'fr',
             current_server_header: 'EmpireEx_3',
             current_event_name: window.sessionStorage.getItem('event') ?? '',
